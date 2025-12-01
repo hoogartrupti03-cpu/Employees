@@ -12,7 +12,7 @@ if __name__ =="__main__":
     emp_id = "E1001"
     Department = "IT"
     Salary = 55000
-    print(employee_details(name,emp_id,department,salary)) 
+    print(employee_details(name,emp_id,Department,Salary)) 
 
 
     
